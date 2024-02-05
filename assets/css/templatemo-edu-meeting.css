@@ -259,12 +259,12 @@ header
 }
 
 .header-area .main-nav {
-  min-height: 80px;
+  min-height: 100px;
   background: transparent;
 }
 
 .logo img {
-  max-height: 100px;
+  max-height: 200px;
 }
 
 .header-area .main-nav .logo {
@@ -572,7 +572,7 @@ header
     padding: 0px;
   }
   .header-area .logo {
-    margin-left: 30px;
+    margin-left: 0;
   }
   .header-area .menu-trigger {
     display: block !important;
@@ -758,7 +758,7 @@ services
 }
 
 .services .item {
-  background-image: url(../images/background1.jpg);
+  background-image: url(../images/Drone-Element-Line.jpg );
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -867,7 +867,7 @@ upcoming meetings
 */
 
 section.upcoming-meetings {
-  background-image: url(../images/background2.webp);
+  background-image: url(../images/back1.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1002,7 +1002,7 @@ apply now
 */
 
 section.apply-now {
-  background-image: url(../images/applynow6.jpg);
+  background-image: url(../images/667063.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1086,7 +1086,7 @@ courses
 */
 
 section.our-courses {
-  background-image: url(../images/background2.webp);
+  background-image: url(../images/back1.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1234,7 +1234,7 @@ our facts
 */
 
 section.our-facts {
-  background-image: url(../images/geostats3.jpeg);
+  background-image: url(../images/drone_flying_on_the_beach_at_sunset_2.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1284,7 +1284,7 @@ section.our-facts h2 {
 section.our-facts .video {
   text-align: center;
   margin-left: 70px;
-  background-image: url(../images/applynow3.webp);
+  background-image: url(../images/List-Of-Best-Road-Trips-In-Kenya-1.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1304,7 +1304,7 @@ contact us
 */
 
 section.contact-us {
-  background-image: url(../images/background2.webp);
+  background-image: url(../images/back1.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
